@@ -7,7 +7,6 @@ import com.distributed.uid.manager.ISequenceManager;
  * 依赖zk中心化的发号器
  *
  * @author typhoon
- * @date 2022-11-17 14:3 Thursday
  **/
 public class ZkIdWorker extends AbstractIdWorker {
 

@@ -2,8 +2,9 @@ package com.distributed.uid.manager;
 
 
 /**
+ * 序列管理器接口
+ *
  * @author typhoon
- * @@date 2022-11-17 14:3 Thursday
  **/
 public interface ISequenceManager<T> {
 

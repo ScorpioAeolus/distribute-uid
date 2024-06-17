@@ -11,7 +11,6 @@ import org.apache.zookeeper.CreateMode;
  *
  *
  * @author typhoon
- * @date 2022-11-17 14:3 Thursday
  **/
 @Slf4j
 public class ZkSequenceManager implements ISequenceManager<String> {

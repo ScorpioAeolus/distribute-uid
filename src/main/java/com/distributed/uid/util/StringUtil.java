@@ -2,7 +2,6 @@ package com.distributed.uid.util;
 
 /**
  * @author typhoon
- * @date 2024/6/12 2:42 下午
  **/
 public class StringUtil {
 

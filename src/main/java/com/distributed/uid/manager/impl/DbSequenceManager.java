@@ -11,7 +11,6 @@ import java.util.Date;
 
 /**
  * @author typhoon
- * @date 2022-11-17 14:3 Thursday
  **/
 @Slf4j
 public class DbSequenceManager implements ISequenceManager<Long> {
