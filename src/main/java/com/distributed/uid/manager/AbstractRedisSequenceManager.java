@@ -2,7 +2,8 @@ package com.distributed.uid.manager;
 
 /**
  * @author typhoon
- * @date 2022-11-17 14:3 Thursday
+ * @date 2024-11-17 14:3 Thursday
+ * @since V1.0.0
  **/
 public abstract class AbstractRedisSequenceManager implements ISequenceManager<String> {
 
