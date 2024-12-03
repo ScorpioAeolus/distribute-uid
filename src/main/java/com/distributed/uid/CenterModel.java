@@ -4,7 +4,8 @@ package com.distributed.uid;
  * 中心化模式
  *
  * @author typhoon
- * @date 2022-07-12 15:26 Tuesday
+ * @date 2024-07-12 15:26 Tuesday
+ * @since v1.0.0
  **/
 public enum CenterModel {
 
