@@ -12,7 +12,7 @@
 
   <groupId>io.github.scorpioaeolus</groupId>
   <artifactId>distributed-uid</artifactId>
-  <version>1.0.0.RELEASE</version>
+  <version>1.0.1.RELEASE</version>
 
   <name>distributed-uid</name>
   <description>distributed-uid</description>
