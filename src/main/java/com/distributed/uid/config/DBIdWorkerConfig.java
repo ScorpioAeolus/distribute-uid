@@ -16,7 +16,6 @@ import javax.sql.DataSource;
  * db中心化发号器配置
  *
  * @author typhoon
- * @date 2022-11-17 14:19 Thursday
  **/
 @Slf4j
 public class DBIdWorkerConfig {

@@ -14,7 +14,6 @@ import java.lang.annotation.Target;
  * 开启发号器能力
  *
  * @author typhoon
- * @date 2022-11-17 16:09 Thursday
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

@@ -11,7 +11,6 @@ import org.springframework.context.annotation.Role;
 
 /**
  * @author typhoon
- * @date 2024/6/12 2:54 下午
  **/
 @Slf4j
 public class LocalMachineIdWorkerConfig {

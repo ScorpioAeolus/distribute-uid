@@ -15,7 +15,6 @@ import org.springframework.util.Assert;
  * 发号器选择器
  *
  * @author typhoon
- * @date 2022-11-17 16:09 Thursday
  * @since 1.0.0
  **/
 @Slf4j

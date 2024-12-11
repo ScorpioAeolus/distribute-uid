@@ -14,7 +14,6 @@ import org.springframework.context.annotation.Role;
  * zk中心化发号器配置
  *
  * @author typhoon
- * @date 2022-11-17 14:3 Thursday
  **/
 @Slf4j
 public class ZkIdWorkerConfiguration {

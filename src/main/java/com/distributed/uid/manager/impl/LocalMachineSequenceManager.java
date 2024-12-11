@@ -9,7 +9,6 @@ import javax.annotation.Resource;
 
 /**
  * @author typhoon
- * @date 2024/6/12 2:31 下午
  **/
 @Slf4j
 public class LocalMachineSequenceManager implements ISequenceManager<String> {

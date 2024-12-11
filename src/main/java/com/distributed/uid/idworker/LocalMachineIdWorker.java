@@ -4,7 +4,6 @@ import com.distributed.uid.manager.ISequenceManager;
 
 /**
  * @author typhoon
- * @date 2024/6/12 2:47 下午
  **/
 public class LocalMachineIdWorker extends AbstractIdWorker{
 
