@@ -20,6 +20,14 @@ public class LocalMachineIdWorkerConfig {
     private String applicationName;
 
 
+    @Bean("customLocalMachinePathConfig")
+    @Role(BeanDefinition.ROLE_INFRASTRUCTURE)
+    public CustomLocalMachinePathConfig customLocalMachinePathConfig() {
+        CustomLocalMachinePathConfig config = new CustomLocalMachinePathConfig();
+        log.info("LocalMachineIdWorkerConfig.customLocalMachinePathConfig init success...");
+        return config;
+    }
+
     @Bean("localMachineSequenceManager")
     @Role(BeanDefinition.ROLE_INFRASTRUCTURE)
     public LocalMachineSequenceManager localMachineSequenceManager() {
