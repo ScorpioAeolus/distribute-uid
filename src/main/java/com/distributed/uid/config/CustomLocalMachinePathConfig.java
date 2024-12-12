@@ -21,7 +21,7 @@ public class CustomLocalMachinePathConfig {
     private static final String SEQ_SUFFIX = "_seq";
 
 
-    private static final String DEFAULT_CONFIG_PATH = "~/custom_seq.conf";
+    private static final String DEFAULT_CONFIG_PATH = System.getProperty("user.home") + "/custom_seq.conf";
 
     private Long SEQ_VAL = null;
 
